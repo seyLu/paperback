@@ -2,6 +2,7 @@
   {{- if eq .IsHome true -}}
     {{ .Site.Title }}
   {{- else -}}
-    {{ .Title }} — {{ .Site.Title }}
+    {{ .Title }} —
+    {{ .Site.Title }}
   {{- end -}}
 </title>
