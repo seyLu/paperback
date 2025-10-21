@@ -7,5 +7,5 @@ charset = utf-8
 indent_style = space
 indent_size = 4
 
-[*.{yaml,yml,json,toml}]
+[*.{yaml,yml,json,toml,html,css,ts,js}]
 indent_size = 2

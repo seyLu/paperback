@@ -45,5 +45,5 @@ LinkedInUsername = "dashdashzako"
 
 ### Code highlighting
 
-Both highlight theme and lib can be overridden. Just drop your build in the `static/js` directory, and the theme file in the `static/css` directory.  
+Both highlight theme and lib can be overridden. Just drop your build in the `static/js` directory, and the theme file in the `static/css` directory.
 Note that the theme has to be named `highlight.css`.
